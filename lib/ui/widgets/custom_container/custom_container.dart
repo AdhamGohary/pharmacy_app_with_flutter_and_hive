@@ -34,7 +34,7 @@ class CustomContainer extends StatelessWidget {
       width: width,
       decoration: BoxDecoration(
           gradient: LinearGradient(
-              colors: <Color>[color1!, color2!,color3!], begin: begin!, end: end!)),
+              colors: <Color>[color1!, color2!], begin: begin!, end: end!)),
       margin: margin,
       child: child,
     );

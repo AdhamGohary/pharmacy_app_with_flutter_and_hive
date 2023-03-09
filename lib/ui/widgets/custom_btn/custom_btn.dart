@@ -39,7 +39,7 @@ class _CustomBtnState extends State<CustomBtn> {
         },
         style: ElevatedButton.styleFrom(
             backgroundColor: x == true ? Colors.white : widget.color,
-            shape: const OvalBorder()),
+            /*shape: const OvalBorder()*/),
         child: CustomTxt(
           txt: widget.txt,
           txtStyle: widget.textStyle,
