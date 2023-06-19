@@ -16,6 +16,4 @@ An application that enables the pharmacist to record product data (their quantit
 ---
 ![chemicalInProduct](https://github.com/BlackedHorse/pharmacy_app_with_flutter_and_hive/blob/main/ui-ux/photo/chemicalInProduct.JPG)
 
-
-https://user-images.githubusercontent.com/103793555/225762919-cad55bcc-9a50-48c7-8e48-db72d039e1e4.mp4
-
+https://www.youtube.com/watch?v=72pVL7_-lDE&t=28s
